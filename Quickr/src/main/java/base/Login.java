@@ -1,5 +1,13 @@
 package base;
 
-public class Login {
-
+public class Login 
+{
+  public void validatelogin()
+  {
+	  
+  }
+  public void invalidlogin()
+  {
+	  
+  }
 }
